@@ -79,8 +79,8 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://edent.github.io/SuperTinyIcons/images/svg/sql.svg" width="65" height="65" alt="SQL"/>
-      <br>SQL
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>
+      <br>Git
     </td>
   </tr>
 </table>
@@ -89,15 +89,15 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
 <table align="center" style="width:100%; background-color:#2e3136;">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="50" height="50" alt="Unity"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="40" height="40" alt="Unity"/>
       <br>Unity
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="50" height="50" alt="Unreal Engine"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="40" height="40" alt="Unreal Engine"/>
       <br>Unreal
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
+      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
       <br>C++
     </td>
   </tr>
@@ -107,15 +107,15 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
 <table align="center" style="width:100%; background-color:#2e3136;">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="50" height="50" alt="Kali Linux"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="40" height="40" alt="Kali Linux"/>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="50" height="50" alt="Ubuntu"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="40" height="40" alt="Ubuntu"/>
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="50" height="50" alt="Garuda Linux"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="40" height="40" alt="Garuda Linux"/>
       <br>Garuda Linux
     </td>
   </tr>
