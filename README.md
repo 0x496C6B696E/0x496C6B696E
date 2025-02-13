@@ -86,40 +86,30 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
 </table>
 
 ### 🎮 Game Development
-<table align="center" style="width:100%; background-color:#2e3136;">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="40" height="40" alt="Unity"/>
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="40" height="40" alt="Unreal Engine"/>
-      <br>Unreal
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/>
-      <br>C++
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://unity.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="65" height="65" alt="Unity"/>
+  </a>
+  <a href="https://www.unrealengine.com/en-US/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="65" height="65" alt="Unreal Engine"/>
+  </a>
+  <a href="https://cplusplus.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++"/>
+  </a>
+</p>
 
 ### 🐧 Linux Distros
-<table align="center" style="width:100%; background-color:#2e3136;">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="40" height="40" alt="Kali Linux"/>
-      <br>Kali Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="40" height="40" alt="Ubuntu"/>
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="40" height="40" alt="Garuda Linux"/>
-      <br>Garuda Linux
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.kali.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="65" height="65" alt="Kali Linux"/>
+  </a>
+  <a href="https://ubuntu.com" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="65" height="65" alt="Ubuntu"/>
+  </a>
+  <a href="https://garudalinux.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="65" height="65" alt="Garuda Linux"/>
+  </a>
+</p>
 
 <h2 align="center">📈 GitHub Stats</h2>
 
