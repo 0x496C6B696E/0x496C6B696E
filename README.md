@@ -27,11 +27,11 @@ alt="" height="30" width="40" /></a>
 </p>
 
 ## About Me
-Hello! My name is **Ilkin**, and I have been working as a **Full Stack Web Developer** for 2 years. I focus on projects related to **Web Development** and enjoy building dynamic and responsive web applications.
+Hello! My name is **Ilkin**, and I have been working as a **Full Stack Web Developer** for 2 years. I focus on projects related to **Web Development** and enjoy building dynamic and responsive web applications. My expertise includes **frontend** and **backend** development, ensuring high-quality and scalable applications.
 
 <h3 align="left">Languages and Tools:</h3>
 
-<table align="center" style="background-color:#2e3136">
+<table align="center" style="background-color:#2e3136; width:100%;">
   <tr>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
@@ -42,8 +42,8 @@ Hello! My name is **Ilkin**, and I have been working as a **Full Stack Web Devel
       <br>Selenium
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django Rest Framework" />
-      <br>Django Rest Framework
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django & Django Rest Framework" />
+      <br>Django & Django Rest Framework
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
