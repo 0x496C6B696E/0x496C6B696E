@@ -33,53 +33,53 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
 <table align="center" style="width:100%; background-color:#2e3136;">
   <tr>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="65" height="65" alt="Selenium" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="65" height="65" alt="Selenium"/>
       <br>Selenium
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django" />
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django"/>
       <br>Django
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/>
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/>
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
+      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript"/>
       <br>JavaScript
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/>
       <br>Bootstrap
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/>
       <br>React
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/>
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="65" height="65" alt="PostgreSQL"/>
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-      <br>Git
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
+      <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=sql" width="65" height="65" alt="SQL" />
+      <img src="https://edent.github.io/SuperTinyIcons/images/svg/sql.svg" width="65" height="65" alt="SQL"/>
       <br>SQL
     </td>
   </tr>
@@ -89,15 +89,15 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
 <table align="center" style="width:100%; background-color:#2e3136;">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="65" height="65" alt="Unity" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="50" height="50" alt="Unity"/>
       <br>Unity
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="65" height="65" alt="Unreal Engine" />
-      <br>Unreal Engine
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="50" height="50" alt="Unreal Engine"/>
+      <br>Unreal
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+      <img src="https://skillicons.dev/icons?i=cpp" width="50" height="50" alt="C++"/>
       <br>C++
     </td>
   </tr>
@@ -107,15 +107,15 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
 <table align="center" style="width:100%; background-color:#2e3136;">
   <tr>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="65" height="65" alt="Kali Linux" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="50" height="50" alt="Kali Linux"/>
       <br>Kali Linux
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="65" height="65" alt="Ubuntu" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="50" height="50" alt="Ubuntu"/>
       <br>Ubuntu
     </td>
     <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="65" height="65" alt="Garuda Linux" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="50" height="50" alt="Garuda Linux"/>
       <br>Garuda Linux
     </td>
   </tr>
