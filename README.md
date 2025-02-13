@@ -120,6 +120,7 @@ I'm a **Full Stack Developer** with 2+ years of experience in building web appli
     </td>
   </tr>
 </table>
+
 <h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
