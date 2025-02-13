@@ -1,4 +1,4 @@
-![MasterHead](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -17,102 +17,93 @@
   <a href="https://github.com/Ilkin97" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
 </p>
 
 ## 🚀 About Me
-I'm a **Full Stack Developer** with 2+ years of hands-on experience in designing and implementing web applications. My passion lies in creating efficient, scalable solutions while maintaining clean code practices. I thrive in challenging environments that push me to grow both technically and professionally.
+I'm a *Full Stack Developer* with 2+ years of experience in building web applications. Passionate about creating efficient, scalable solutions and continuously learning new technologies. My core competencies include:
 
-**Core Competencies:**
-- 🌐 Full Stack Development (MERN & Django Stack)
+- 🌐 Full Stack Development (MERN & Django)
 - 🎮 Game Development (Unity & Unreal Engine)
-- 🐧 Linux System Administration & DevOps
-- 🤖 Automation & Scripting (Python & Bash)
-- 🔒 Cybersecurity Enthusiast
-
-**Current Focus:**
-- 📚 Learning Advanced Cloud Architecture (AWS & Docker)
-- ⚡ Optimizing Web Performance
-- 🧠 Exploring Machine Learning Integration
+- 🐧 Linux System Administration
+- 🤖 Automation & Scripting
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-### 🖥 Frontend Development
+### 💻 Core Technologies
+<table align="center" style="width:100%; background-color:#2e3136;">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="65" height="65" alt="Selenium"/>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django"/>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript"/>
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/>
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="65" height="65" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
+
+### 🎮 Game Development
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
 </p>
 
-### ⚙ Backend Development
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-### 🗄 Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-</p>
-
-### 🛠 DevOps & Tools
+### 🗄 Databases & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
-### 🎮 Game Development
-<table align="center" style="width:100%; background-color:#2e3136;">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="65" height="65" alt="Unity" />
-      <br>Unity
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="65" height="65" alt="Unreal Engine" />
-      <br>Unreal Engine
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
-      <br>C++
-    </td>
-  </tr>
-</table>
-
 ### 🐧 Linux Distros
-<table align="center" style="width:100%; background-color:#2e3136;">
-  <tr>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="65" height="65" alt="Kali Linux" />
-      <br>Kali Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="65" height="65" alt="Ubuntu" />
-      <br>Ubuntu
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="65" height="65" alt="Garuda Linux" />
-      <br>Garuda Linux
-    </td>
-  </tr>
-</table>
-
-<h2 align="center">🚀 Featured Projects</h2>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[E-Commerce Platform](https://github.com/yourproject)** | Full-stack e-commerce solution with real-time analytics | React, Node.js, MongoDB, Redis |
-| **[AI Chatbot](https://github.com/yourproject)** | NLP-powered customer support chatbot | Python, TensorFlow, Flask |
-| **[DevOps Pipeline](https://github.com/yourproject)** | CI/CD automation for web applications | Docker, Jenkins, AWS |
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
+  <img src="https://img.shields.io/badge/Garuda_Linux-222222?style=for-the-badge&logo=garuda&logoColor=7CFC00" alt="Garuda Linux"/>
+</p>
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
@@ -125,24 +116,11 @@ I'm a **Full Stack Developer** with 2+ years of hands-on experience in designing
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkin97&layout=compact&theme=merko&hide_border=true&langs_count=8" alt="Top Languages" width="70%"/>
 </p>
 
-<h2 align="center">📚 Latest Blog Posts</h2>
-
-<!-- BLOG-POST-LIST:START -->
-- [Microservices Architecture Best Practices](https://yourblog.com/post1)
-- [Optimizing React Performance](https://yourblog.com/post2)
-- [Linux Server Hardening Guide](https://yourblog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
 <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilkin97&theme=merko&area=true&hide_border=true&custom_title=My%20Contribution%20Heatmap" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilkin97&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Snake Animation"/>
-</p>
-
-<h3 align="center">📫 Let's Collaborate!</h3>
-<p align="center">
-  Open for exciting projects and opportunities. Reach out via email or LinkedIn!
 </p>
