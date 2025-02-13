@@ -1,35 +1,136 @@
 
  ![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
 
-<h1 align="center">Hi 👋, I'm Ilkin</h1>
-<h3 align="center">THINK ONLY ABOUT YOUR ART.</h3>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Sixtyfour&size=24&pause=1000&color=AAD102&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Ilkin;Full+Stack+Web+Developer" alt="Typing SVG" />
+  </a>
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ilkin97&label=Profile%20views&color=0e75b6&style=flat" alt="ilkin97" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ilkin97" alt="ilkin97" /></a> </p>
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/https://dev.to/ilkin97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/ilkin97" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/in/ilkin-mastanov-6a69b1252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/ilkin-mastanov-6a69b1252" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/mugetsu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/mugetsu" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/dashboard/recent?workspace=3f5c88db-325f-456f-936f-c3b9b0077081&new_workspace=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/dashboard/recent?workspace=3f5c88db-325f-456f-936f-c3b9b0077081&new_workspace=true" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/dashboard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/dashboard" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/problemset/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/problemset/" height="30" width="40" /></a>
+<h3 align="left">Connect with Me:</h3>
+<p align="center">
+<a href="mailto:ilkinmestanov97@gmail.com" target="blank"><img align="center"
+src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Icon_%282013-2020%29.svg"
+alt="mailto:ilkinmestanov97@gmail.com" height="30" width="40" /></a>
+<a href="https://www.facebook.com//" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+alt="Ilkin97" height="30" width="40" /></a>
+<a href="https://instagram.com/" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+alt="" height="30" width="40" /></a>
+<a href="https://discord.gg/" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
+alt="" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in//" target="blank"><img align="center"
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+alt="" height="30" width="40" /></a>
 </p>
 
+## About Me
+Hello! My name is **Ilkin**, and I have been working as a **Full Stack Web Developer** for 2 years. I focus on projects related to **Web Development** and enjoy building dynamic and responsive web applications.
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/ilkinmestae?new=1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/ilkinmestae?new=1" /></a><a href="https://ko-fi.com/https://buymeacoffee.com/ilkinmestae?new=1"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://buymeacoffee.com/ilkinmestae?new=1" /></a></p><br><br>
+<table align="center" style="background-color:#2e3136">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="65" height="65" alt="Selenium" />
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django Rest Framework" />
+      <br>Django Rest Framework
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sql" width="65" height="65" alt="SQL" />
+      <br>SQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Unity_2021.svg" width="65" height="65" alt="Unity" />
+      <br>Unity
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Unreal_Engine_Logo.svg" width="65" height="65" alt="Unreal Engine" />
+      <br>Unreal Engine
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="65" height="65" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Kali-linux-logo.svg" width="65" height="65" alt="Kali Linux" />
+      <br>Kali Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_logo_%282022%29.svg" width="65" height="65" alt="Ubuntu" />
+      <br>Ubuntu
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Garuda_Linux_logo.svg" width="65" height="65" alt="Garuda Linux" />
+      <br>Garuda Linux
+    </td>
+  </tr>
+</table> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilkin97&show_icons=true&locale=en&layout=compact" alt="ilkin97" /></p>
+<p align="center">
+  <a href="https://github.com/Ilkin97">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilkin97&theme=merko" alt="Ilkin's GitHub streak"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilkin97&show_icons=true&locale=en" alt="ilkin97" /></p>
+<p align="center">
+  <a href="https://github.com/Ilkin97">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilkin97&theme=merko" alt="Ilkin's GitHub Contributions"/>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilkin97&" alt="ilkin97" /></p>
+<p align="center"> 
+  <a href="https://github.com/Ilkin97"><img alt="Ilkin's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Ilkin97&show_icons=true&count_private=true&theme=merko" height="192px" width="49.7%"/></a>
+  <a href="https://github.com/"><img alt="Ilkin's Most Used Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ilkin97&langs_count=8&layout=compact&theme=merko" height="192px" width="max-content"/></a>
+</p>
+
+<a align="center" href="https://github.com/Ilkin97">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilkin97&bg_color=0D1117&color=abd200&line=abd200&point=7F3FBF&area_color=FFFFFF&title_color=abd200&area=true">
+</a>
+
+<p align="center"><img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg"/></p>
