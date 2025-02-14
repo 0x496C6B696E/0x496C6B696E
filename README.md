@@ -116,8 +116,8 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 </p>
 
 <p align="center">
-  <a href="https://github.com/huseynt">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseynt&theme=merko" alt="Huseyn's GitHub Contribution"/>
+  <a href="https://github.com/Ilkin97">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ilkin97&theme=merko" alt="Ilkin's GitHub Contribution"/>
   </a>
 </p>
 
