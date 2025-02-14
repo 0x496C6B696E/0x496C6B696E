@@ -53,19 +53,19 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65" height="65" alt="JavaScript"/>
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/>
       <br>Bootstrap
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" width="65" height="65" alt="React"/>
-      <br>React
-    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="icon" />
+       <br>React
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/>
       <br>Node.js
@@ -79,9 +79,9 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
       <br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git"/>
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="background-color:#fff"/>
       <br>Git
-    </td>
+    </td>
   </tr>
 </table>
 
