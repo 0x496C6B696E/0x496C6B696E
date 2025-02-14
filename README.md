@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/63905637/145709095-4f7e73cb-e52e-44fa-99a5-58a96ac4ff0c.gif)
+![MasterHead](https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif)
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
