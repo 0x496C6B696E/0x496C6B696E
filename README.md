@@ -106,6 +106,8 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Garuda_Linux-222222?style=for-the-badge&logo=garuda&logoColor=7CFC00" alt="Garuda Linux"/>
 </p>
 
+![Görsel Açıklaması](https://preview.redd.it/fns7rzzwluh11.png?auto=webp&s=0bb6d9782beb12ee9ece22a696e5dd73a604b4e1)
+
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
