@@ -122,7 +122,6 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <h2 align="center">🔥 Contribution Graph</h2>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilkin97&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
-  <a href="https://github.com/Ilkin97"><img alt="Ilkin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Ilkin97&langs_count=8&layout=compact&theme=merko" height="192px" width="max-content"/></a>
 </p>
 
 <p align="center">
