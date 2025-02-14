@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://www.linkedin.com/in/ilkin-mastanov-6a69b1252/" alt="LinkedIn"/>
+    <img src="[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/ilkin-mastanov-6a69b1252/)" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Ilkin97" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -20,7 +20,7 @@
 </p>
 
 ## 🚀 About Me
-I'm a *Full Stack Developer* with 2+ years of experience in building web applications. Passionate about creating efficient, scalable solutions and continuously learning new technologies. My core competencies include:
+I'm a Full Stack Developer with 2+ years of experience in building web applications. Passionate about creating efficient, scalable solutions and continuously learning new technologies. My core competencies include:
 
 - 🌐 Full Stack Development (MERN & Django)
 - 🎮 Game Development (Unity & Unreal Engine)
