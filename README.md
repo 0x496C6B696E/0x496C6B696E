@@ -19,6 +19,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ilkin97&color=brightgreen" alt="Profile Views"/>
+</p>
+
 ## 🚀 About Me
 I'm a Full Stack Developer with 2+ years of experience in building web applications. Passionate about creating efficient, scalable solutions and continuously learning new technologies. My core competencies include:
 
