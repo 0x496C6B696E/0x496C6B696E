@@ -7,9 +7,11 @@
 </h1>
 
 ---
+
 <p align="center" style="font-style: italic; font-size: 1.2em;">
   "Code is like humor. When you have to explain it, it’s bad." – Cory House
 </p>
+
 ---
 
 <h3 align="center">🔗 Connect with Me</h3>
