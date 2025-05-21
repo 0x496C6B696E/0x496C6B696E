@@ -11,7 +11,7 @@
   <a href="mailto:ilkinmestanov97@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-   <a href="https://www.linkedin.com/in/ilkin-mastanov-6a69b1252" target="_blank">
+  <a href="https://www.linkedin.com/in/ilkin-mastanov-6a69b1252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Ilkin97" target="_blank">
@@ -107,8 +107,13 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
-  <img src="https://img.shields.io/badge/Garuda_Linux-222222?style=for-the-badge&logo=garuda&logoColor=7CFC00" alt="Garuda Linux"/>
+  <img src="https://img.shields.io/badge/Garuda_Linux-222222?style=for-the-badge&logo=garuda-linux&logoColor=7CFC00" alt="Garuda Linux"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint"/>
+  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro"/>
 </p>
+
+<p align="center"><em>Arch Linux: Only the strong survive.</em></p>
 
 ![GIF](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)
 
