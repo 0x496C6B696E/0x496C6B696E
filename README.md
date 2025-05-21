@@ -38,10 +38,60 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <h2 align="center">🛠 Tech Stack</h2>
 
 ### 💻 Core Technologies
-<!-- Table remains unchanged -->
-
-<!-- ... (table buraya aynen gelecek, uzun olduğu için kesildi) -->
-
+<table align="center" style="width:100%; background-color:#2e3136;">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" width="65" height="65" alt="Python"/>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="65" height="65" alt="Selenium"/>
+      <br>Selenium
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="65" height="65" alt="Django"/>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML"/>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS"/>
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap"/>
+      <br>Bootstrap
+    </td>
+    <td align="center" width="96"> 
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="icon" />
+       <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/>
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="65" height="65" alt="PostgreSQL"/>
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="65" height="65" alt="MySQL"/>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="background-color:#fff"/>
+      <br>Git
+    </td>
+  </tr>
+</table>
 ### 🎮 Game Development
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -66,9 +116,13 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 </p>
 
 ### 🐧 Favorite Linux Distro
-<img align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" width="250" />
+</p>
 
-<p align="center"><em>Arch Linux: Only the strong survive.</em></p>
+<p align="center" style="font-size:18px; font-style:italic; margin-top:-10px;">
+  <em>Arch Linux: Only the strong survive.</em>
+</p>
 
 
 ![GIF](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)
