@@ -66,7 +66,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 </p>
 
 ### 🐧 Favorite Linux Distro
-<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
+<img align="center" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 
 <p align="center"><em>Arch Linux: Only the strong survive.</em></p>
 
@@ -76,8 +76,8 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilkin97&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilkin97&theme=merko&hide_border=true" alt="GitHub Streak" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilkin97&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilkin97&theme=merko&hide_border=true" alt="GitHub Streak" width="100%"/>
 </p>
 
 <p align="center">
