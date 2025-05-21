@@ -7,7 +7,9 @@
 </h1>
 
 ---
-
+<p align="center" style="font-style: italic; font-size: 1.2em;">
+  "Code is like humor. When you have to explain it, it’s bad." – Cory House
+</p>
 ---
 
 <h3 align="center">🔗 Connect with Me</h3>
@@ -154,27 +156,3 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Snake Animation"/>
 </p>
-
-
-
-
-
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ilkin97&theme=react-dark&area=true" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=61DAFB&color=white" alt="React" />
-  </a>
-</p>
-
-<p align="center" style="font-style: italic; font-size: 1.2em;">
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ilkin97&color=brightgreen" alt="Profile Views"/>
-</p>
-
