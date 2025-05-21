@@ -12,6 +12,8 @@
   "Code is like humor. When you have to explain it, it’s bad."
 </p>
 
+---
+
 <h3 align="center">🔗 Connect with Me</h3>
 
 
@@ -127,14 +129,11 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white" alt="Manjaro"/>
 </p>
 
----
-
 ### 🐧 Favorite Linux Distro
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" width="250" />
 </p>
 
----
 
 <p align="center" style="font-size:18px; font-style:italic; margin-top:-10px;">
   <em>Arch Linux: Only the strong survive.</em>
