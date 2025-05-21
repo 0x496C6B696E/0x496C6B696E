@@ -8,8 +8,6 @@
 
 ---
 
-<p align="center"><code style="font-size:16px; color:#AAD102;">[ilkin@archlinux ~]$ mastering everything one commit at a time...</code></p>
-
 ---
 
 <h3 align="center">🔗 Connect with Me</h3>
