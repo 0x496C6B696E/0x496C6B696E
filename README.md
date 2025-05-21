@@ -6,13 +6,9 @@
   </a>
 </h1>
 
----
-
 <p align="center" style="font-style: italic; font-size: 1.2em;">
   "Code is like humor. When you have to explain it, it’s bad."
 </p>
-
----
 
 <h3 align="center">🔗 Connect with Me</h3>
 
@@ -29,12 +25,11 @@
   </a> -->
 </p>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ilkin97&color=brightgreen" alt="Profile Views"/>
 </p>
 
+---
 
 
 ## 🚀 About Me
