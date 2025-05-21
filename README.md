@@ -74,8 +74,8 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ilkin97&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilkin97&theme=merko&hide_border=true" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ilkin97&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ilkin97&theme=merko&hide_border=true" alt="GitHub Streak" width="50%"/>
 </p>
 
 <p align="center">
@@ -87,7 +87,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkin97&layout=donut&theme=merko&hide_border=true&langs_count=100" alt="Top Languages" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilkin97&layout=donut&theme=merko&hide_border=true&langs_count=100" alt="Top Languages" width="100%"/>
 </p>
 
 <h2 align="center">🔥 Contribution Graph</h2>
