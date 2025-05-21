@@ -14,7 +14,14 @@
 
 ---
 
+---
+
 <h3 align="center">🔗 Connect with Me</h3>
+
+---
+
+---
+
 <p align="center">
   <a href="mailto:ilkinmestanov97@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -27,9 +34,13 @@
   </a> -->
 </p>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ilkin97&color=brightgreen" alt="Profile Views"/>
 </p>
+
+---
 
 ## 🚀 About Me
 I'm a Full Stack Developer with 2+ years of experience in building web applications. Passionate about creating efficient, scalable solutions and continuously learning new technologies. My core competencies include:
@@ -39,7 +50,11 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 - 🐧 Linux System Administration (mainly on Arch Linux)
 - 🤖 Automation & Scripting
 
+---
+
 <h2 align="center">🛠 Tech Stack</h2>
+
+---
 
 ### 💻 Core Technologies
 <table align="center" style="width:100%; background-color:#2e3136;">
@@ -96,6 +111,11 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
     </td>
   </tr>
 </table>
+
+---
+
+---
+
 ### 🎮 Game Development
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
@@ -104,11 +124,19 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </p>
 
+---
+
+---
+
 ### 🗄 Databases & DevOps
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
+
+---
+
+---
 
 ### 🐧 Linux Distros
 <p align="center">
@@ -123,6 +151,8 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" width="250" />
 </p>
+
+---
 
 <p align="center" style="font-size:18px; font-style:italic; margin-top:-10px;">
   <em>Arch Linux: Only the strong survive.</em>
