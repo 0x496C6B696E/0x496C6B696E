@@ -126,6 +126,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <img src="https://img.shields.io/badge/openSUSE-73BA25?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE"/>
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+  <img src="https://img.shields.io/badge/Pop!_OS-2E6CFF?style=for-the-badge&logo=pop-os&logoColor=white" alt="Pop!_OS"/>
 </p>
 
 ### 🐧 Favorite Linux Distro
