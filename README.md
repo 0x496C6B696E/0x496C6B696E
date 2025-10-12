@@ -117,6 +117,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 
 ### 🐧 Linux Distros
 <p align="center">
+  <img src="https://img.shields.io/badge/Qubes_OS-0091EA?style=for-the-badge&logo=qubes-os&logoColor=white" alt="Qubes OS" width="200" />
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
   <img src="https://img.shields.io/badge/Garuda_Linux-222222?style=for-the-badge&logo=garuda-linux&logoColor=7CFC00" alt="Garuda Linux"/>
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
@@ -130,13 +131,11 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
 </p>
 
-### 🛠 Professional Linux Distros
+### 🛡 Professional Linux Distros
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" width="250" />
-  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Red Hat" width="250" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" width="200" />
+  <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Red Hat" width="200" />
 </p>
-
-
 
 <p align="center" style="font-size:18px; font-style:italic; margin-top:-10px;">
   <em>Arch Linux: Only the strong survive.</em>
