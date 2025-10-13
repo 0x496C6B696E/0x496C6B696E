@@ -143,11 +143,6 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Red Hat"/>
 </p>
 
-<p align="center" style="font-size:18px; font-style:italic; margin-top:-10px;">
-  <em>Arch Linux: Only the strong survive.</em>
-</p>
-
-
 ![GIF](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)
 
 <h2 align="center">📈 GitHub Analytics</h2>
