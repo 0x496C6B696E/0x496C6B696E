@@ -115,7 +115,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🖥 Unix-like / BSD OS
+### 🖥 BSD OS
 <p align="center">
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/>
   <img src="https://img.shields.io/badge/OpenBSD-1C1C1C?style=for-the-badge&logo=openbsd&logoColor=white" alt="OpenBSD"/>
