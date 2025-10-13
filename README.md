@@ -115,6 +115,14 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
+### 🖥 Virtualization & WSL
+<p align="center">
+  <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
+  <img src="https://img.shields.io/badge/QEMU/KVM-FF6600?style=for-the-badge&logo=qemu&logoColor=white" alt="QEMU / KVM"/>
+  <img src="https://img.shields.io/badge/WSL2-0099FF?style=for-the-badge&logo=windows&logoColor=white" alt="WSL2"/>
+</p>
+
 ### 🖥 BSD OS
 <p align="center">
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/>
