@@ -37,7 +37,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 
 - 🌐 Full Stack Development (MERN & Django)
 - 🎮 Game Development (Unity & Unreal Engine)
-- 🐧 Linux System Administration (mainly on Arch Linux)
+- 🐧 Linux System Administration
 - 🤖 Automation & Scripting
 
 
