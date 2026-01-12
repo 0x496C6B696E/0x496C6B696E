@@ -180,3 +180,13 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Snake Animation"/>
 </p>
+
+## :chart_with_upwards_trend: [Metricas](https://github.com/lowlighter/metrics)
+[<img align="left" width="250px" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/github-metrics.svg">](#)
+[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
+[<img align="left" width="43.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.stars.svg">](#)
+[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.topics.icons.svg">](#)
+[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.languages.details.svg">](#)
+[<img align="left" width="43.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.repositories.svg">](#)
+[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.music.playlist.spotify.svg">](#)
+[<img align="right" width="42.5%" alt="📊" src="https://github.com/adnksharp/adnksharp/blob/main/metrics.plugin.followup.indepth.svg">](#)
