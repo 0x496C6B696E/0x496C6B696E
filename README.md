@@ -180,13 +180,3 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Snake Animation"/>
 </p>
-
-![GitHub Metrics](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/github-metrics.svg)
-## :chart_with_upwards_trend: [Metricas](https://github.com/lowlighter/metrics)
-[<img align="left" width="250px" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/github-metrics.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/metrics.plugin.isocalendar.fullyear.svg">](#)
-[<img align="left" width="43.5%" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/metrics.plugin.stars.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/metrics.plugin.topics.icons.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/metrics.plugin.languages.details.svg">](#)
-[<img align="left" width="43.5%" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/metrics.plugin.repositories.svg">](#)
-[<img align="right" width="42.5%" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/metrics.plugin.followup.indepth.svg">](#)
