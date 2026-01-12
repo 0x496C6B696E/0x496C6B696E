@@ -181,6 +181,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Snake Animation"/>
 </p>
 
+![GitHub Metrics](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/github-metrics.svg)
 ## :chart_with_upwards_trend: [Metricas](https://github.com/lowlighter/metrics)
 [<img align="left" width="250px" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/blob/main/github-metrics.svg">](#)
 [<img align="right" width="42.5%" alt="📊" src="https://github.com/0x496C6B696E/0x496C6B696E/blob/main/metrics.plugin.isocalendar.fullyear.svg">](#)
