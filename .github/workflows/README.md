@@ -7,11 +7,12 @@
 </h1>
 
 <p align="center" style="font-style: italic; font-size: 1.2em;">
-  "Code is like humor. When you have to explain it, it’s bad."
+  "Code is like humor. When you have to explain it, it's bad."
 </p>
 
-<h3 align="center">🔗 Connect with Me</h3>
+---
 
+<h3 align="center">🔗 Connect with Me</h3>
 
 <p align="center">
   <a href="mailto:ilkinmestanov97@gmail.com" target="_blank">
@@ -20,9 +21,6 @@
    <a href="https://www.linkedin.com/in/ilkin-mastanov-6a69b1252" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<!--   <a href="https://github.com/0x496C6B696E" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a> -->
 </p>
 
 <p align="center">
@@ -31,8 +29,8 @@
 
 ---
 
-
 ## 🚀 About Me
+
 I'm a Full Stack Developer with 2+ years of experience in building web applications. Passionate about creating efficient, scalable solutions and continuously learning new technologies. My core competencies include:
 
 - 🌐 Full Stack Development (MERN & Django)
@@ -40,11 +38,70 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 - 🐧 Linux System Administration
 - 🤖 Automation & Scripting
 
+---
+
+<h2 align="center">📊 GitHub Metrics</h2>
+
+<div align="center">
+
+![Metrics](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/github-metrics.svg)
+
+</div>
+
+<details>
+<summary>📈 Detailed Activity Metrics</summary>
+
+<div align="center">
+
+![Detailed Metrics](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/metrics.plugin.isocalendar.svg)
+
+</div>
+
+</details>
+
+<details>
+<summary>🈷️ Language & Coding Habits</summary>
+
+<div align="center">
+
+![Languages](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/metrics.plugin.languages.svg)
+
+![Habits](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/metrics.plugin.habits.svg)
+
+</div>
+
+</details>
+
+<details>
+<summary>🎟️ Issues & PRs Follow-up</summary>
+
+<div align="center">
+
+![Follow-up](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/metrics.plugin.followup.svg)
+
+</div>
+
+</details>
+
+<details>
+<summary>🎭 Achievements & Stars</summary>
+
+<div align="center">
+
+![Achievements](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/metrics.plugin.achievements.svg)
+
+![Stargazers](https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/main/metrics.plugin.stargazers.svg)
+
+</div>
+
+</details>
+
+---
 
 <h2 align="center">🛠 Tech Stack</h2>
 
-
 ### 💻 Core Technologies
+
 <table align="center" style="width:100%; background-color:#2e3136;">
   <tr>
     <td align="center" width="96">
@@ -70,7 +127,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
       <br>JavaScript
-    </td>
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -80,7 +137,7 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
     <td align="center" width="96"> 
         <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65" height="65" alt="icon" />
        <br>React
-    </td>
+    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="Node.js"/>
       <br>Node.js
@@ -96,12 +153,12 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" style="background-color:#fff"/>
       <br>Git
-    </td>
+    </td>
   </tr>
 </table>
 
-
 ### 🎮 Game Development
+
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white"/>
@@ -110,12 +167,14 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 </p>
 
 ### 🗄 Databases & DevOps
+
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
 ### 🖥 Virtualization & WSL
+
 <p align="center">
   <img src="https://img.shields.io/badge/VMware_Workstation-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware Workstation"/>
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox"/>
@@ -124,12 +183,14 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 </p>
 
 ### 🖥 BSD OS
+
 <p align="center">
   <img src="https://img.shields.io/badge/FreeBSD-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white" alt="FreeBSD"/>
   <img src="https://img.shields.io/badge/OpenBSD-1C1C1C?style=for-the-badge&logo=openbsd&logoColor=white" alt="OpenBSD"/>
 </p>
 
 ### 🐧 Linux Distros
+
 <p align="center">
   <img src="https://img.shields.io/badge/Qubes_OS-0091EA?style=for-the-badge&logo=qubes-os&logoColor=white" alt="Qubes OS"/>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian"/>
@@ -146,33 +207,41 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 </p>
 
 ### 🛡 Professional Linux Distros
+
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux"/>
   <img src="https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=red-hat&logoColor=white" alt="Red Hat"/>
 </p>
 
+---
+
 ![GIF](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)
+
+---
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x496C6B696E&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="100%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=merko&hide_border=true" alt="GitHub Streak" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=0x496C6B696E&show_icons=true&theme=merko&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="49%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=merko&hide_border=true" alt="GitHub Streak" width="49%"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/0x496C6B696E">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x496C6B696E&theme=merko" alt="Ilkin's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x496C6B696E&theme=merko" alt="GitHub Contribution"/>
   </a>
 </p>
 
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x496C6B696E&layout=donut&theme=merko&hide_border=true&langs_count=100" alt="Top Languages" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x496C6B696E&layout=donut&theme=merko&hide_border=true&langs_count=10" alt="Top Languages" width="45%"/>
 </p>
 
+---
+
 <h2 align="center">🔥 Contribution Graph</h2>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
@@ -180,3 +249,22 @@ I'm a Full Stack Developer with 2+ years of experience in building web applicati
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Snake Animation"/>
 </p>
+
+---
+
+<h2 align="center">💡 Random Dev Quote</h2>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" alt="Random Dev Quote"/>
+</p>
+
+---
+
+<div align="center">
+  
+  ### 🌟 Show some ❤️ by starring some repositories!
+  
+  ![GitHub followers](https://img.shields.io/github/followers/0x496C6B696E?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/0x496C6B696E?style=social)
+  
+</div>
