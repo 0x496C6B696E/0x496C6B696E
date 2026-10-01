@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=0x496C6B696E&color=brightgreen" alt="Profile Views"/>
 </p>
 
-![GIF](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)
+
 
 <h2 align="center">📈 GitHub Analytics</h2>
 
@@ -29,6 +29,8 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&theme=merko&area=true&hide_border=true" alt="Contribution Graph"/>
 </p>
+
+![GIF](https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg" alt="Snake Animation"/>
