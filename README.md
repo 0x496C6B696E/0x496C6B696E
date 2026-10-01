@@ -1,11 +1,5 @@
 ![MasterHead](https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=0x496C6B696E&color=brightgreen" alt="Profile Views"/>
-</p>
-
-
-
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <p align="center">
