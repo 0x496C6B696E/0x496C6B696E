@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- 🐺 1. WITCHER SİNEMATİK BANNER (Geralt & Sisli Gece) -->
-  <img src="https://media.giphy.com/media/XZb9VDkNNWajKnzTG7/giphy.gif" width="100%" alt="The Witcher Banner" />
+  <!-- 🐺 1. WITCHER ANA HEADER (Geralt & Sisli Orman - Sağlam CDN) -->
+  <img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif" width="100%" alt="The Witcher Banner" />
 
   <br/><br/>
 
@@ -13,7 +13,7 @@
 
   <br/><br/>
 
-  <!-- ⚔️ WITCHER BÜYÜ İŞARETLERİ (SIGNS) -->
+  <!-- ⚔️️ WITCHER BÜYÜ İŞARETLERİ (SIGNS) -->
   <p align="center">
     <img src="https://img.shields.io/badge/AARD-💨_Telekinesis-1f2937?style=flat-square&labelColor=0d1117&color=374151" alt="Aard" />
     <img src="https://img.shields.io/badge/IGNI-🔥_Pyrokinesis-7f1d1d?style=flat-square&labelColor=0d1117&color=991b1b" alt="Igni" />
@@ -93,31 +93,27 @@
 
   <br/><br/>
 
-  <!-- 🗡️ WITCHER KILIÇ DÖVÜŞÜ / COMBAT GIF'İ -->
-  <img src="https://media.giphy.com/media/KMDTamx3kDsjezotdE/giphy.gif" width="80%" alt="Combat GIF" />
+  <!-- 🗡️ WITCHER KILIÇ SAVAŞI GIF'İ -->
+  <img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" alt="Witcher Combat" />
 
   <br/><br/>
 
-  <!-- 🎮 KATKI AVCISI PAC-MAN (Retro Quest) -->
+  <!-- 🎮 KATKI AVCISI PAC-MAN -->
   <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.svg" width="100%" alt="Pac-Man Quest" />
 
   <br/><br/>
 
-  <!-- 🔥 ALEV ALAN KURT MADALYONU (Igni Sign Efekti) -->
-  <img src="https://media.giphy.com/media/VbKLOdvCxBFNZpYvhL/giphy.gif" width="45%" alt="Igni Wolf Medallion" />
+  <!-- 🔥 WITCHER KURT MADALYONU & KAMP ATEŞİ -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Dark Fantasy Fire" />
 
   <br/><br/>
 
-  <!-- 🐍 DARK SNAKE OYUNU (Karanlık Harita Gezgini) -->
+  <!-- 🐍 DARK SNAKE OYUNU -->
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" width="100%" alt="Dark Snake" />
 
   <br/><br/>
 
-  <!-- 🐎 THE PATH: YOLCULUK GIF'İ & ALT RÜNİK BİTİŞ -->
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="The Path" />
-
-  <br/>
-
+  <!-- Alt Rünik Bitiş -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1208,100:0a0a0a&height=90&section=footer" width="100%" alt="Footer" />
 
