@@ -1,19 +1,19 @@
 <div align="center">
 
-  <!-- 🐺 1. WITCHER ANA HEADER (Geralt & Sisli Orman - Sağlam CDN) -->
+  <!-- 🐺 1. WITCHER ANA HEADER -->
   <img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif" width="100%" alt="The Witcher Banner" />
 
   <br/><br/>
 
-  <!-- Witcher Rün Başlığı -->
+  <!-- Witcher Başlık -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C0A062&text=THE%20WITCHER'S%20CHRONICLES&height=90&fontSize=38&fontAlignY=60" width="100%" alt="Title" />
 
-  <!-- Rünik Ateş Ayracı -->
+  <!-- Rünik Çizgi -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
 
   <br/><br/>
 
-  <!-- ⚔️️ WITCHER BÜYÜ İŞARETLERİ (SIGNS) -->
+  <!-- ⚔️ WITCHER BÜYÜ İŞARETLERİ (SIGNS) -->
   <p align="center">
     <img src="https://img.shields.io/badge/AARD-💨_Telekinesis-1f2937?style=flat-square&labelColor=0d1117&color=374151" alt="Aard" />
     <img src="https://img.shields.io/badge/IGNI-🔥_Pyrokinesis-7f1d1d?style=flat-square&labelColor=0d1117&color=991b1b" alt="Igni" />
@@ -24,7 +24,7 @@
 
   <br/>
 
-  <!-- 🎖️ GITHUB ACHIEVEMENTS (GERÇEK 3D LOGOLAR / MEDALYONLAR) -->
+  <!-- 🎖️ GITHUB ACHIEVEMENTS (3D LOGOLAR / MEDALYONLAR) -->
   <table border="0" style="background: transparent; border: none;">
     <tr style="background: transparent; border: none;">
       <td align="center" style="padding: 12px; background: transparent; border: none;">
@@ -52,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" height="8px" />
   <br/><br/>
 
-  <!-- 📦 TÜM İSTATİSTİKLER: TEK PARŞÖMEN / ÇERÇEVE -->
+  <!-- 📦 İSTATİSTİKLER: TEK PARŞÖMEN / ÇERÇEVE -->
   <table border="1" style="border: 2px solid #5a3d1c; border-radius: 12px; background-color: #0b0e14; padding: 15px; width: 100%;">
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; background: transparent;">
@@ -61,7 +61,6 @@
     </tr>
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; background: transparent;">
-        <!-- Streak & Toplam Katkı Geçmişi -->
         <a href="https://github.com/0x496C6B696E">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=blood&hide_border=true&background=0b0e14&ring=8B0000&fire=C0A062&currStreakLabel=C0A062" width="48%" alt="Streak" />
         </a>
@@ -72,7 +71,6 @@
     </tr>
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; background: transparent; padding-top: 15px;">
-        <!-- Güneş/Ay Kodlama Saatleri & Repo Dağılımı -->
         <a href="https://github.com/0x496C6B696E">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x496C6B696E&theme=github_dark&utcOffset=4" width="48%" alt="Productive Time" />
         </a>
@@ -83,7 +81,6 @@
     </tr>
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; background: transparent; padding-top: 15px;">
-        <!-- Toplam Katkı Skoru Tablosu -->
         <a href="https://github.com/0x496C6B696E">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x496C6B696E&theme=github_dark" width="97%" alt="Stats" />
         </a>
@@ -91,30 +88,74 @@
     </tr>
   </table>
 
-  <br/><br/>
+</div>
 
-  <!-- 🗡️ WITCHER KILIÇ SAVAŞI GIF'İ -->
-  <img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" alt="Witcher Combat" />
+<br/>
 
-  <br/><br/>
+<!-- 🏰 3D KATKI KULELERİ (3D TOWERS OF KAER MORHEN) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
+  <img alt="3D Katkı Kuleleri" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+</picture>
 
-  <!-- 🎮 KATKI AVCISI PAC-MAN -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.svg" width="100%" alt="Pac-Man Quest" />
+<div align="center">
 
-  <br/><br/>
+### 🏰 Kaer Morhen Kuleleri — Bu Sütunlar Ne Anlama Geliyor?
 
-  <!-- 🔥 WITCHER KURT MADALYONU & KAMP ATEŞİ -->
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60%" alt="Dark Fantasy Fire" />
+- ⚔️ **Yüksek Sütunlar** = Yeni büyük mimariler & yoğun kontrat (greenfield) haftaları
+- 📜 **Düz Ovalar** = Derin araştırma, sistem tasarımı ve dinlenme dönemleri
+- 🔥 **Zirve Yapan Hafta Sonları** = Bağımsız yan projeler & açık kaynak geliştirmeleri
 
-  <br/><br/>
+---
 
-  <!-- 🐍 DARK SNAKE OYUNU -->
-  <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" width="100%" alt="Dark Snake" />
+<br/>
 
-  <br/><br/>
+<!-- 🎮 PAC-MAN / CODE HUNT BÖLÜMÜ -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.svg" alt="Pacman Code Hunt" width="100%" />
+</p>
 
-  <!-- Alt Rünik Bitiş -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1208,100:0a0a0a&height=90&section=footer" width="100%" alt="Footer" />
+<p align="center">
+  <strong>0x496C6B696E</strong> · <em>Path of the White Wolf</em>
+</p>
+
+<p align="center">
+  <code>QUEST · CANAVAR AVI</code> ·
+  <code>RUNES · DEVAMLI GELİŞİM</code> ·
+  <code>STAGE · ARCHITECT</code>
+</p>
+
+<br/>
+
+<!-- 🗡️ WITCHER KILIÇ SAVAŞI GIF'İ -->
+<img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" alt="Witcher Combat" />
+
+<br/><br/>
+
+<!-- 🔥 KURT MADALYONU & KAMP ATEŞİ -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50%" alt="Dark Fantasy Fire" />
+
+<br/><br/>
+
+<!-- 🪐 TECH SPHERE / TEKNOLOJİ YÖRÜNGESİ -->
+<p align="center">
+  <img src="./assets/tech-sphere.svg" alt="0x496C6B696E — Toolbelt Orbit" width="100%" />
+</p>
+
+### 🔮 Yörüngenin Merkezinde Ne Var?
+
+> "Şu anda mikroservis mimarileri, yüksek performanslı backend sistemleri ve dağıtık yapılar üzerinde çalışıyorum."
+
+<br/>
+
+<!-- 🐍 DARK SNAKE OYUNU -->
+<img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" width="100%" alt="Dark Snake" />
+
+<br/><br/>
+
+<!-- Alt Rünik Bitiş -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1208,100:0a0a0a&height=90&section=footer" width="100%" alt="Footer" />
 
 </div>
