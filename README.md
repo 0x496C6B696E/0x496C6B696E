@@ -1,10 +1,11 @@
 <div align="center">
 
-  <!-- 🐺 1. WITCHER ANA HEADER GIF & BANNER -->
-  <img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif" width="100%" alt="Witcher Wolf Banner" />
+  <!-- 🐺 1. WITCHER SİNEMATİK BANNER (Geralt & Sisli Gece) -->
+  <img src="https://media.giphy.com/media/XZb9VDkNNWajKnzTG7/giphy.gif" width="100%" alt="The Witcher Banner" />
 
-  <br/>
+  <br/><br/>
 
+  <!-- Witcher Rün Başlığı -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C0A062&text=THE%20WITCHER'S%20CHRONICLES&height=90&fontSize=38&fontAlignY=60" width="100%" alt="Title" />
 
   <!-- Rünik Ateş Ayracı -->
@@ -51,7 +52,7 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" height="8px" />
   <br/><br/>
 
-  <!-- 📦 TÜM İSTATİSTİKLER: TEK ÇERÇEVEDE / PARŞÖMENDE TOPLANDI -->
+  <!-- 📦 TÜM İSTATİSTİKLER: TEK PARŞÖMEN / ÇERÇEVE -->
   <table border="1" style="border: 2px solid #5a3d1c; border-radius: 12px; background-color: #0b0e14; padding: 15px; width: 100%;">
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; background: transparent;">
@@ -60,7 +61,7 @@
     </tr>
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; background: transparent;">
-        <!-- Streak & Toplam Katkı Detayı -->
+        <!-- Streak & Toplam Katkı Geçmişi -->
         <a href="https://github.com/0x496C6B696E">
           <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=blood&hide_border=true&background=0b0e14&ring=8B0000&fire=C0A062&currStreakLabel=C0A062" width="48%" alt="Streak" />
         </a>
@@ -82,7 +83,7 @@
     </tr>
     <tr style="border: none; background: transparent;">
       <td align="center" style="border: none; background: transparent; padding-top: 15px;">
-        <!-- Bütün Katkı / Score Tablosu -->
+        <!-- Toplam Katkı Skoru Tablosu -->
         <a href="https://github.com/0x496C6B696E">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x496C6B696E&theme=github_dark" width="97%" alt="Stats" />
         </a>
@@ -92,8 +93,8 @@
 
   <br/><br/>
 
-  <!-- 🗡️ WITCHER ARA ATMOSFER GIF'İ (Karanlık Savaşçı / Kod Avı) -->
-  <img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" alt="Combat GIF" />
+  <!-- 🗡️ WITCHER KILIÇ DÖVÜŞÜ / COMBAT GIF'İ -->
+  <img src="https://media.giphy.com/media/KMDTamx3kDsjezotdE/giphy.gif" width="80%" alt="Combat GIF" />
 
   <br/><br/>
 
@@ -102,12 +103,21 @@
 
   <br/><br/>
 
-  <!-- 🐍 DARK SNAKE OYUNU (Canavar Avı Haritası) -->
+  <!-- 🔥 ALEV ALAN KURT MADALYONU (Igni Sign Efekti) -->
+  <img src="https://media.giphy.com/media/VbKLOdvCxBFNZpYvhL/giphy.gif" width="45%" alt="Igni Wolf Medallion" />
+
+  <br/><br/>
+
+  <!-- 🐍 DARK SNAKE OYUNU (Karanlık Harita Gezgini) -->
   <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" width="100%" alt="Dark Snake" />
 
   <br/><br/>
 
-  <!-- Alt Rünik Bitiş -->
+  <!-- 🐎 THE PATH: YOLCULUK GIF'İ & ALT RÜNİK BİTİŞ -->
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%" alt="The Path" />
+
+  <br/>
+
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1208,100:0a0a0a&height=90&section=footer" width="100%" alt="Footer" />
 
