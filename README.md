@@ -1,14 +1,18 @@
 <div align="center">
 
-  <!-- Ana Başlık / Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1208,100:0a0a0a&height=200&section=header&text=THE%20WITCHER'S%20CHRONICLES&fontSize=38&fontColor=C0A062&fontAlignY=45&desc=⚔️%200x496C6B696E%20•%20School%20of%20the%20Wolf%20⚔️&descFontSize=16&descColor=8b949e" width="100%" alt="Header" />
+  <!-- 🐺 1. WITCHER ANA HEADER GIF & BANNER -->
+  <img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif" width="100%" alt="Witcher Wolf Banner" />
+
+  <br/>
+
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C0A062&text=THE%20WITCHER'S%20CHRONICLES&height=90&fontSize=38&fontAlignY=60" width="100%" alt="Title" />
 
   <!-- Rünik Ateş Ayracı -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
 
   <br/><br/>
 
-  <!-- Witcher İşaretleri (Signs) -->
+  <!-- ⚔️ WITCHER BÜYÜ İŞARETLERİ (SIGNS) -->
   <p align="center">
     <img src="https://img.shields.io/badge/AARD-💨_Telekinesis-1f2937?style=flat-square&labelColor=0d1117&color=374151" alt="Aard" />
     <img src="https://img.shields.io/badge/IGNI-🔥_Pyrokinesis-7f1d1d?style=flat-square&labelColor=0d1117&color=991b1b" alt="Igni" />
@@ -19,70 +23,91 @@
 
   <br/>
 
-  <!-- ⚔️ WITCHER MEDALLIONS / ACHIEVEMENTS -->
-  <p align="center">
-    <a href="https://github.com/0x496C6B696E?tab=achievements">
-      <img src="https://img.shields.io/badge/ACHIEVEMENT-PAIR%20EXTRAORDINAIRE-1f2937?style=for-the-badge&logo=github&logoColor=C0A062&labelColor=0d1117&color=1e293b" height="34px" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/0x496C6B696E?tab=achievements">
-      <img src="https://img.shields.io/badge/ACHIEVEMENT-PULL%20SHARK-1f2937?style=for-the-badge&logo=github&logoColor=C0A062&labelColor=0d1117&color=1e293b" height="34px" />
-    </a>
-    &nbsp;
-    <a href="https://github.com/0x496C6B696E?tab=achievements">
-      <img src="https://img.shields.io/badge/ACHIEVEMENT-YOLO-1f2937?style=for-the-badge&logo=github&logoColor=C0A062&labelColor=0d1117&color=1e293b" height="34px" />
-    </a>
-  </p>
-
-  <br/><br/>
-
-  <!-- 1. BLOK: Streak & Profil Katkı Geçmişi (Yan Yana) -->
-  <p align="center">
-    <a href="https://github.com/0x496C6B696E">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=blood&hide_border=true&background=0D1117&ring=8B0000&fire=C0A062&currStreakLabel=C0A062" width="48.5%" alt="Streak" />
-    </a>
-    <a href="https://github.com/0x496C6B696E">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x496C6B696E&theme=github_dark" width="48.5%" alt="Profile Details" />
-    </a>
-  </p>
+  <!-- 🎖️ GITHUB ACHIEVEMENTS (GERÇEK 3D LOGOLAR / MEDALYONLAR) -->
+  <table border="0" style="background: transparent; border: none;">
+    <tr style="background: transparent; border: none;">
+      <td align="center" style="padding: 12px; background: transparent; border: none;">
+        <a href="https://github.com/0x496C6B696E?tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px" alt="Pair Extraordinaire" /><br/>
+          <sub><b><font color="#C0A062">Pair Extraordinaire</font></b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 12px; background: transparent; border: none;">
+        <a href="https://github.com/0x496C6B696E?tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px" alt="Pull Shark" /><br/>
+          <sub><b><font color="#C0A062">Pull Shark</font></b></sub>
+        </a>
+      </td>
+      <td align="center" style="padding: 12px; background: transparent; border: none;">
+        <a href="https://github.com/0x496C6B696E?tab=achievements">
+          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" alt="YOLO" /><br/>
+          <sub><b><font color="#C0A062">YOLO</font></b></sub>
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" height="8px" />
+  <br/><br/>
 
-  <!-- 2. BLOK: Güneş/Ay Kodlama Saatleri & Repo Dağılımı (Yan Yana) -->
-  <p align="center">
-    <a href="https://github.com/0x496C6B696E">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x496C6B696E&theme=github_dark&utcOffset=4" width="48.5%" alt="Productive Time" />
-    </a>
-    <a href="https://github.com/0x496C6B696E">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x496C6B696E&theme=github_dark" width="48.5%" alt="Repos Per Language" />
-    </a>
-  </p>
-
-  <br/>
-
-  <!-- 3. BLOK: Toplam İstatistik Özeti -->
-  <a href="https://github.com/0x496C6B696E">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x496C6B696E&theme=github_dark" width="98%" alt="Overall Stats" />
-  </a>
+  <!-- 📦 TÜM İSTATİSTİKLER: TEK ÇERÇEVEDE / PARŞÖMENDE TOPLANDI -->
+  <table border="1" style="border: 2px solid #5a3d1c; border-radius: 12px; background-color: #0b0e14; padding: 15px; width: 100%;">
+    <tr style="border: none; background: transparent;">
+      <td align="center" style="border: none; background: transparent;">
+        <h3 style="color: #C0A062; margin-bottom: 5px;">📜 THE WITCHER'S MASTER CHRONICLE</h3>
+      </td>
+    </tr>
+    <tr style="border: none; background: transparent;">
+      <td align="center" style="border: none; background: transparent;">
+        <!-- Streak & Toplam Katkı Detayı -->
+        <a href="https://github.com/0x496C6B696E">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=blood&hide_border=true&background=0b0e14&ring=8B0000&fire=C0A062&currStreakLabel=C0A062" width="48%" alt="Streak" />
+        </a>
+        <a href="https://github.com/0x496C6B696E">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x496C6B696E&theme=github_dark" width="48%" alt="Details" />
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none; background: transparent;">
+      <td align="center" style="border: none; background: transparent; padding-top: 15px;">
+        <!-- Güneş/Ay Kodlama Saatleri & Repo Dağılımı -->
+        <a href="https://github.com/0x496C6B696E">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x496C6B696E&theme=github_dark&utcOffset=4" width="48%" alt="Productive Time" />
+        </a>
+        <a href="https://github.com/0x496C6B696E">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x496C6B696E&theme=github_dark" width="48%" alt="Repos" />
+        </a>
+      </td>
+    </tr>
+    <tr style="border: none; background: transparent;">
+      <td align="center" style="border: none; background: transparent; padding-top: 15px;">
+        <!-- Bütün Katkı / Score Tablosu -->
+        <a href="https://github.com/0x496C6B696E">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x496C6B696E&theme=github_dark" width="97%" alt="Stats" />
+        </a>
+      </td>
+    </tr>
+  </table>
 
   <br/><br/>
 
-  <!-- Ara Witcher / Dark Atmosfer GIF'i -->
-  <img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="98%" alt="Dark Hunter" />
+  <!-- 🗡️ WITCHER ARA ATMOSFER GIF'İ (Karanlık Savaşçı / Kod Avı) -->
+  <img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" alt="Combat GIF" />
 
   <br/><br/>
 
-  <!-- 4. BLOK: Katkı Avcısı Pac-Man Animasyonu -->
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.svg" width="98%" alt="Pac-Man / Code Hunt" />
+  <!-- 🎮 KATKI AVCISI PAC-MAN (Retro Quest) -->
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.svg" width="100%" alt="Pac-Man Quest" />
 
   <br/><br/>
 
-  <!-- 5. BLOK: Karanlık Harita Snake Oyunu -->
-  <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" width="98%" alt="Snake" />
+  <!-- 🐍 DARK SNAKE OYUNU (Canavar Avı Haritası) -->
+  <img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" width="100%" alt="Dark Snake" />
 
   <br/><br/>
 
-  <!-- Alt Rünik Çizgi & Bitiş -->
+  <!-- Alt Rünik Bitiş -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1208,100:0a0a0a&height=90&section=footer" width="100%" alt="Footer" />
 
