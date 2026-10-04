@@ -1,32 +1,43 @@
 <div align="center">
-
-  <!-- Başlık (Minimalist, Witcher/Dark Fantasy ruhuna uygun serif font) -->
-  <h1 style="color: #C0A062;">The Witcher's Chronicles</h1>
-  <p style="color: #9CA3AF;"><i>Path of the White Wolf</i></p>
-
-  <br>
-
-  <!-- 1. LOWLIGHTER CORE: Genel Profil, Repolar ve Dil Özeti -->
-  <img src="https://metrics.lecoq.io/0x496C6B696E?template=classic&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&config.theme=dark" width="100%" alt="Metrics Core" />
-
-  <br><br>
-
-  <!-- 2. LOWLIGHTER ISOCALENDAR: 3D Katkı Kuleleri (İzometrik Takvim) -->
-  <img src="https://metrics.lecoq.io/0x496C6B696E?template=classic&base=0&isocalendar=1&isocalendar.duration=half-year&config.theme=dark" width="100%" alt="Metrics Isometric Calendar" />
-
-  <br><br>
-
-  <!-- 3. LOWLIGHTER HABITS: Kodlama Alışkanlıkları (Güneş/Ay döngüsü ve saat matrisi) -->
-  <img src="https://metrics.lecoq.io/0x496C6B696E?template=classic&base=0&habits=1&habits.from=200&habits.days=14&habits.facts=1&habits.charts=1&config.theme=dark" width="100%" alt="Metrics Habits" />
-
-  <br><br>
-
-  <!-- 4. LOWLIGHTER ACHIEVEMENTS: Detaylı Başarı ve Kupa Vitrini -->
-  <img src="https://metrics.lecoq.io/0x496C6B696E?template=classic&base=0&achievements=1&achievements.threshold=B&achievements.display=detailed&config.theme=dark" width="100%" alt="Metrics Achievements" />
-
-  <br><br>
-
-  <!-- 5. AWESOME LIST / SNAKE: Karanlık Mod Yılan Oyunu -->
-  <img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/github-snake-dark.svg" width="100%" alt="Dark Snake Game" />
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=32&pause=1000&color=C0A062&center=true&vcenter=true&width=800&lines=The+Witcher's+Chronicles;Path+of+the+White+Wolf;Mastering+the+Arcane+Code" alt="Typing SVG" />
+  </a>
 </div>
+
+---
+
+### 🗡️ The Path (Savaş ve İstatistikler)
+<p align="center">
+  <!-- Stats & Streak yan yana, şeffaf zemin ve Witcher renkleri -->
+  <img src="https://github-readme-stats.vercel.app/api?username=0x496C6B696E&show_icons=true&bg_color=0d1117&title_color=C0A062&icon_color=8B0000&text_color=9CA3AF&hide_border=true&include_all_commits=true" width="49%" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&background=0D1117&ring=8B0000&fire=C0A062&currStreakLabel=C0A062&sideLabels=9CA3AF&dates=9CA3AF&hide_border=true" width="49%" alt="Streak" />
+</p>
+
+### 📜 Bestiary of Code (Diller & Başarılar)
+<p align="center">
+  <!-- Donut Grafiği ve Kupalar (Genişlik oranları ayarlandı, tablo kullanılmadı) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x496C6B696E&layout=donut&bg_color=0d1117&title_color=C0A062&text_color=9CA3AF&hide_border=true&langs_count=5" width="38%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=0x496C6B696E&theme=gruvbox&no-frame=true&no-bg=true&margin_w=15&column=4" width="58%" alt="Trophies" />
+</p>
+
+### 🏰 Kaer Morhen Towers (3D Katkı Kuleleri)
+<p align="center">
+  <!-- Senin verdiğin 3D GitHub Action modülü -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
+    <img alt="3d contribution graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
+  </picture>
+</p>
+
+### 🩸 The Journey's Echo (Aktivite Grafiği)
+<p align="center">
+  <!-- Kan kırmızısı ve altın renkli geniş dalga grafiği -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&bg_color=0d1117&color=C0A062&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</p>
+
+### 🐍 The Hunt (Karanlık Mod Yılan Oyunu)
+<p align="center">
+  <!-- Karanlık zeminde katkı piksellerini toplayan Snake SVG'si -->
+  <img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/github-snake-dark.svg" width="100%" alt="Dark Snake Game" />
+</p>
