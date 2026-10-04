@@ -1,161 +1,66 @@
 <div align="center">
 
-  <!-- 🐺 1. WITCHER ANA HEADER -->
-  <img src="https://i.pinimg.com/originals/34/16/fc/3416fc4113b69a0bf1cc75a772c4b5c4.gif" width="100%" alt="The Witcher Banner" />
-
-  <br/><br/>
-
-  <!-- Witcher Başlık -->
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C0A062&text=THE%20WITCHER'S%20CHRONICLES&height=90&fontSize=38&fontAlignY=60" width="100%" alt="Title" />
-
-  <!-- Rünik Çizgi -->
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
-
-  <br/><br/>
-
-  <!-- ⚔️ WITCHER BÜYÜ İŞARETLERİ (SIGNS) -->
-  <p align="center">
-    <img src="https://img.shields.io/badge/AARD-💨_Telekinesis-1f2937?style=flat-square&labelColor=0d1117&color=374151" alt="Aard" />
-    <img src="https://img.shields.io/badge/IGNI-🔥_Pyrokinesis-7f1d1d?style=flat-square&labelColor=0d1117&color=991b1b" alt="Igni" />
-    <img src="https://img.shields.io/badge/YRDEN-🔮_Magic_Trap-4c1d95?style=flat-square&labelColor=0d1117&color=6d28d9" alt="Yrden" />
-    <img src="https://img.shields.io/badge/QUEN-🛡️_Shield-78350f?style=flat-square&labelColor=0d1117&color=b45309" alt="Quen" />
-    <img src="https://img.shields.io/badge/AXII-🌀_Charm-064e3b?style=flat-square&labelColor=0d1117&color=047857" alt="Axii" />
-  </p>
+  <!-- 1. TYPING SVG (Dinamik Yazı Animasyonu) -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=C0A062&center=true&vcenter=true&width=600&lines=The+Witcher's+Chronicles;Path+of+the+White+Wolf;Full+Stack+Developer" alt="Typing SVG" />
+  </a>
 
   <br/>
 
-  <!-- 🎖️ GITHUB ACHIEVEMENTS (3D LOGOLAR / MEDALYONLAR) -->
-  <table border="0" style="background: transparent; border: none;">
-    <tr style="background: transparent; border: none;">
-      <td align="center" style="padding: 12px; background: transparent; border: none;">
-        <a href="https://github.com/0x496C6B696E?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pair-extraordinaire-default.png" width="95px" alt="Pair Extraordinaire" /><br/>
-          <sub><b><font color="#C0A062">Pair Extraordinaire</font></b></sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 12px; background: transparent; border: none;">
-        <a href="https://github.com/0x496C6B696E?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/pull-shark-default.png" width="95px" alt="Pull Shark" /><br/>
-          <sub><b><font color="#C0A062">Pull Shark</font></b></sub>
-        </a>
-      </td>
-      <td align="center" style="padding: 12px; background: transparent; border: none;">
-        <a href="https://github.com/0x496C6B696E?tab=achievements">
-          <img src="https://raw.githubusercontent.com/Schweinepriester/github-profile-achievements/main/images/yolo-default.png" width="95px" alt="YOLO" /><br/>
-          <sub><b><font color="#C0A062">YOLO</font></b></sub>
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- 2. PROFILE VIEWS COUNTER (Ziyaretçi Sayacı) -->
+  <img src="https://komarev.com/ghpvc/?username=0x496C6B696E&color=8B0000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
-  <br/>
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="80%" height="8px" />
   <br/><br/>
 
-  <!-- 📦 İSTATİSTİKLER: TEK PARŞÖMEN / ÇERÇEVE -->
-  <table border="1" style="border: 2px solid #5a3d1c; border-radius: 12px; background-color: #0b0e14; padding: 15px; width: 100%;">
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; background: transparent;">
-        <h3 style="color: #C0A062; margin-bottom: 5px;">📜 THE WITCHER'S MASTER CHRONICLE</h3>
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; background: transparent;">
-        <a href="https://github.com/0x496C6B696E">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&theme=blood&hide_border=true&background=0b0e14&ring=8B0000&fire=C0A062&currStreakLabel=C0A062" width="48%" alt="Streak" />
-        </a>
-        <a href="https://github.com/0x496C6B696E">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x496C6B696E&theme=github_dark" width="48%" alt="Details" />
-        </a>
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; background: transparent; padding-top: 15px;">
-        <a href="https://github.com/0x496C6B696E">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=0x496C6B696E&theme=github_dark&utcOffset=4" width="48%" alt="Productive Time" />
-        </a>
-        <a href="https://github.com/0x496C6B696E">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0x496C6B696E&theme=github_dark" width="48%" alt="Repos" />
-        </a>
-      </td>
-    </tr>
-    <tr style="border: none; background: transparent;">
-      <td align="center" style="border: none; background: transparent; padding-top: 15px;">
-        <a href="https://github.com/0x496C6B696E">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=0x496C6B696E&theme=github_dark" width="97%" alt="Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <!-- 3. SHIELDS.IO (Tech Stack / Büyü İşaretleri) -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=0d1117&labelColor=161b22" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&color=0d1117&labelColor=161b22" alt="JS" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&color=0d1117&labelColor=161b22" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black&color=0d1117&labelColor=161b22" alt="Linux" />
+
+  <br/><br/>
+
+  <!-- 4. GITHUB PROFILE TROPHY (Kupa Vitrini) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=0x496C6B696E&theme=gruvbox&no-frame=true&no-bg=true&margin_w=15" alt="Trophies" />
+  </a>
 
 </div>
 
 <br/>
 
-<!-- 🏰 3D KATKI KULELERİ (3D TOWERS OF KAER MORHEN) -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg">
-  <img alt="3D Katkı Kuleleri" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
-</picture>
-
+<!-- 5. GITHUB README STATS & STREAK STATS (Yan Yana) -->
 <div align="center">
-
-### 🏰 Kaer Morhen Kuleleri — Bu Sütunlar Ne Anlama Geliyor?
-
-- ⚔️ **Yüksek Sütunlar** = Yeni büyük mimariler & yoğun kontrat (greenfield) haftaları
-- 📜 **Düz Ovalar** = Derin araştırma, sistem tasarımı ve dinlenme dönemleri
-- 🔥 **Zirve Yapan Hafta Sonları** = Bağımsız yan projeler & açık kaynak geliştirmeleri
-
----
+  <img src="https://github-readme-stats.vercel.app/api?username=0x496C6B696E&show_icons=true&bg_color=0d1117&title_color=C0A062&icon_color=8B0000&text_color=9ca3af&hide_border=true&include_all_commits=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x496C6B696E&background=0d1117&ring=8B0000&fire=C0A062&currStreakLabel=C0A062&sideLabels=9ca3af&dates=9ca3af&hide_border=true" width="49%" alt="GitHub Streak" />
+</div>
 
 <br/>
 
-<!-- 🎮 PAC-MAN / CODE HUNT BÖLÜMÜ -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.svg" alt="Pacman Code Hunt" width="100%" />
-</p>
-
-<p align="center">
-  <strong>0x496C6B696E</strong> · <em>Path of the White Wolf</em>
-</p>
-
-<p align="center">
-  <code>QUEST · CANAVAR AVI</code> ·
-  <code>RUNES · DEVAMLI GELİŞİM</code> ·
-  <code>STAGE · ARCHITECT</code>
-</p>
+<!-- 6. TOP LANGUAGES & GITHUB READM QUOTES (Yan Yana) -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x496C6B696E&layout=donut&bg_color=0d1117&title_color=C0A062&text_color=9ca3af&hide_border=true&langs_count=6" width="49%" alt="Top Languages" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&bg_color=0d1117&text_color=9ca3af" width="49%" alt="Dev Quotes" />
+</div>
 
 <br/>
 
-<!-- 🗡️ WITCHER KILIÇ SAVAŞI GIF'İ -->
-<img src="https://i.pinimg.com/originals/01/38/11/013811d63121a093c32714cbbeeea0d0.gif" width="100%" alt="Witcher Combat" />
-
-<br/><br/>
-
-<!-- 🔥 KURT MADALYONU & KAMP ATEŞİ -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="50%" alt="Dark Fantasy Fire" />
-
-<br/><br/>
-
-<!-- 🪐 TECH SPHERE / TEKNOLOJİ YÖRÜNGESİ -->
-<p align="center">
-  <img src="./assets/tech-sphere.svg" alt="0x496C6B696E — Toolbelt Orbit" width="100%" />
-</p>
-
-### 🔮 Yörüngenin Merkezinde Ne Var?
-
-> "Şu anda mikroservis mimarileri, yüksek performanslı backend sistemleri ve dağıtık yapılar üzerinde çalışıyorum."
+<!-- 7. GITHUB README ACTIVITY GRAPH (Etkinlik Çizgisi) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&bg_color=0d1117&color=c0a062&line=8b0000&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
 
 <br/>
 
-<!-- 🐍 DARK SNAKE OYUNU -->
-<img src="https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake-dark.svg" width="100%" alt="Dark Snake" />
+<!-- 8. PLATANE / SNK (Karanlık Mod Yılan Oyunu) -->
+<!-- Not: Yılan oyununun çalışması için 'snk' action'ının reponda kurulu olması gerekir. -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/github-snake-dark.svg" width="100%" alt="GitHub Snake Game" />
+</div>
 
-<br/><br/>
+<br/>
 
-<!-- Alt Rünik Bitiş -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="12px" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:1c1208,100:0a0a0a&height=90&section=footer" width="100%" alt="Footer" />
-
+<!-- 9. LOWLIGHTER METRICS (İzometrik 3D Katkı Takvimi) -->
+<div align="center">
+  <img src="https://metrics.lecoq.io/0x496C6B696E?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.theme=dark" width="100%" alt="Metrics Isometric" />
 </div>
