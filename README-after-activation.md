@@ -50,7 +50,30 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0x496C6B696E&amp;theme=github_dark" width="100%" alt="Contribution history" />
       </td>
     </tr>
-    <!-- GENERATED_ROWS -->
+        <tr>
+      <td width="50%" height="280" align="center" valign="middle">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/profile-3d-contrib/profile-night-rainbow.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/profile-3d-contrib/profile-season.svg"/><img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution calendar"/></picture>
+      </td>
+      <td width="50%" height="280" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/contribution-orbit.svg" width="100%" alt="Contribution orbit"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" height="160" align="center" valign="middle">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/snake-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/snake.svg"/><img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/snake-dark.svg" width="100%" alt="Contribution snake"/></picture>
+      </td>
+      <td width="50%" height="160" align="center" valign="middle">
+        <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/pacman-contribution-graph-dark.svg"/><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/pacman-contribution-graph.svg"/><img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/pacman-contribution-graph-dark.svg" width="100%" alt="Pac-Man contribution graph"/></picture>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" height="240" align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/analytics-grid.svg" width="100%" alt="Contribution ledger"/>
+      </td>
+      <td width="50%" height="240" align="center" valign="middle">
+        <p>Rolling-year contribution totals and active days.</p><p><sub>Dates use UTC. Best streak covers the displayed window.</sub></p>
+      </td>
+    </tr>
   </table>
   <img src="./assets/epilogue.svg" width="100%" alt="" />
   <details>
