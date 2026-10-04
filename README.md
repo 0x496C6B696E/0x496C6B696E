@@ -1,21 +1,21 @@
 <div align="center">
 
-  <!-- Witcher Kurt Logosu / Başlık Başlığı -->
+  <!-- Witcher Kurt Logosu / Başlık -->
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=C0A062&text=THE%20WITCHER'S%20CHRONICLES&height=120&fontSize=46&fontAlignY=55&desc=⚔️%200x496C6B696E%20•%20Path%20of%20the%20White%20Wolf%20⚔️&descFontSize=16&descColor=8E7A53" width="100%" alt="Header" />
 
-  <!-- Rünik Ayırıcı -->
+  <!-- Rünik Çizgi -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.png" width="100%" height="15px" />
 
   <br/><br/>
 
-  <!-- 🏆 Kupa Rafı (Koyu Altın / Minimal) -->
-  <a href="https://github.com/0x496C6B696E">
-    <img src="https://github-profile-trophy.vercel.app/?username=0x496C6B696E&theme=gruvbox&no-frame=true&no-bg=true&margin_w=10&column=6" width="90%" alt="Trophies" />
+  <!-- 🎖️ GITHUB ACHIEVEMENTS (Kazanılan Madalyalar & Rozetler) -->
+  <a href="https://github.com/0x496C6B696E?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=0x496C6B696E&theme=gruvbox&no-frame=true&no-bg=true&margin_w=10&column=6" width="90%" alt="Achievements & Trophies" />
   </a>
 
   <br/><br/>
 
-  <!-- Tablo Düzeni: İstatistik Kartları (Yatay ve Dikey Kusursuz Eşitlik) -->
+  <!-- Tablo Düzeni: İstatistik Kartları (Simetrik & Şeffaf Dark Tema) -->
   <table border="0" style="border: none; background: transparent;">
     <tr style="border: none; background: transparent;">
       <td width="50%" align="center" style="border: none; background: transparent; padding: 6px;">
@@ -37,8 +37,8 @@
 
   <br/>
 
-  <!-- 📈 Katkı Eğrisi (Kan & Koyu Altın Hattı) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&bg_color=00000000&color=8B0000&line=C0A062&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity" />
+  <!-- 📈 Katkı Eğrisi (Kan Kırmızısı & Altın) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&bg_color=00000000&color=8B0000&line=C0A062&point=FFFFFF&area=true&hide_border=true" width="95%" alt="Activity Graph" />
 
   <br/><br/>
 
