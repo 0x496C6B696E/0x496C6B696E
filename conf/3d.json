@@ -1,0 +1,13 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-ash.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#a3a4ae",
+    "strongColor": "#e5dfd2",
+    "weakColor": "#4a4f57",
+    "radarColor": "#b8b4ad",
+    "growingAnimation": true,
+    "contribColors": ["#161b22", "#4a4f57", "#737a85", "#a3a4ae", "#e5dfd2"]
+  }
+]
