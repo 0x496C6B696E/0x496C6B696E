@@ -1,1 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="115" viewBox="0 0 640 115"><rect width="640" height="115" fill="#0d1117"/><path d="M24 82H264m112 0h240" stroke="#41414a"/><path d="M320 74l8 8-8 8-8-8z" fill="none" stroke="#a4afb9"/><text x="320" y="55" text-anchor="middle" font-family="Georgia,serif" font-size="35" fill="#d6cebf">Tech stack</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="110" viewBox="0 0 720 110">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#c9a84c"/><stop offset=".5" stop-color="#e8d48b"/><stop offset="1" stop-color="#c9a84c"/></linearGradient>
+<linearGradient id="l" gradientUnits="userSpaceOnUse" x1="40" x2="320"><stop offset="0" stop-color="#c9a84c" stop-opacity="0"/><stop offset="1" stop-color="#c9a84c"/></linearGradient>
+<linearGradient id="r" gradientUnits="userSpaceOnUse" x1="400" x2="680"><stop offset="0" stop-color="#c9a84c"/><stop offset="1" stop-color="#c9a84c" stop-opacity="0"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="720" height="110" fill="#0d1117"/>
+<text x="360" y="56" text-anchor="middle" font-family="Cinzel,'Trajan Pro',Georgia,serif" font-size="30" letter-spacing="5" fill="url(#g)" filter="url(#glow)">ARMAMENT</text>
+<path d="M40 82H320" stroke="url(#l)" stroke-width="1.2"/><path d="M400 82H680" stroke="url(#r)" stroke-width="1.2"/>
+<path d="M360 74l8 8-8 8-8-8z" fill="none" stroke="#e8d48b" stroke-width="1.2"/>
+<path d="M336 82h8M376 82h8" stroke="#e8d48b" stroke-width="1.2"/>
+<circle cx="360" cy="82" r="1.6" fill="#e8d48b"><animate attributeName="opacity" values="1;.3;1" dur="3s" repeatCount="indefinite"/></circle>
+</svg>

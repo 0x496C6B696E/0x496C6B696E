@@ -4,10 +4,10 @@
     "fileName": "profile-ash.svg",
     "backgroundColor": "#0d1117",
     "foregroundColor": "#a3a4ae",
-    "strongColor": "#e5dfd2",
+    "strongColor": "#e8d48b",
     "weakColor": "#4a4f57",
-    "radarColor": "#b8b4ad",
+    "radarColor": "#c9a84c",
     "growingAnimation": true,
-    "contribColors": ["#161b22", "#4a4f57", "#737a85", "#a3a4ae", "#e5dfd2"]
+    "contribColors": ["#161b22", "#4a4232", "#8a6d2f", "#c9a84c", "#e8d48b"]
   }
 ]
