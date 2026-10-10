@@ -31,11 +31,16 @@ jobs:
           SETTING_JSON: conf/3d.json
 
       - name: Collect outputs
-        run: cp profile-3d-contrib/*.svg dist/
+        run: |
+          ls -la dist profile-3d-contrib || true
+          mkdir -p out
+          cp dist/*.svg out/
+          cp profile-3d-contrib/*.svg out/
+          ls -la out
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: out
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
