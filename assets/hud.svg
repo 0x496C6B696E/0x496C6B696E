@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="330" viewBox="0 0 760 330">
+<defs><filter id="glow"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="760" height="330" rx="6" fill="#0d1117" stroke="#2a2416"/>
+<rect x="6" y="6" width="748" height="318" rx="4" fill="none" stroke="#c9a84c" stroke-opacity=".35"/>
+<text x="40" y="34" font-size="15" fill="#e8d48b" font-family="Cinzel,Georgia,serif" letter-spacing="4" filter="url(#glow)">CHARACTER SHEET</text>
+<text x="720" y="34" font-size="12" fill="#a3a4ae" font-family="Georgia,serif" text-anchor="end">Level ∞ · Tarnished · 0x496C6B696E</text>
+<path d="M40 42H720" stroke="#c9a84c" stroke-opacity=".4"/>
+<text x="40" y="62" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" letter-spacing="2">HP</text>
+<rect x="72" y="51" width="560" height="12" rx="2" fill="#1a1e26" stroke="#2c313a"/>
+<rect x="72" y="51" width="515" height="12" rx="2" fill="#b03a2e"><animate attributeName="width" values="0;515" dur="1.6s" begin="0.30s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="72" y="51" width="515" height="4" rx="2" fill="#e0533f" opacity=".7"><animate attributeName="width" values="0;515" dur="1.6s" begin="0.30s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="644" y="62" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Backend</text><text x="40" y="86" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" letter-spacing="2">FP</text>
+<rect x="72" y="75" width="560" height="12" rx="2" fill="#1a1e26" stroke="#2c313a"/>
+<rect x="72" y="75" width="470" height="12" rx="2" fill="#2f5f9e"><animate attributeName="width" values="0;470" dur="1.6s" begin="0.65s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="72" y="75" width="470" height="4" rx="2" fill="#4f8fd6" opacity=".7"><animate attributeName="width" values="0;470" dur="1.6s" begin="0.65s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="644" y="86" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Systems</text><text x="40" y="110" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" letter-spacing="2">ST</text>
+<rect x="72" y="99" width="560" height="12" rx="2" fill="#1a1e26" stroke="#2c313a"/>
+<rect x="72" y="99" width="492" height="12" rx="2" fill="#3f8a3f"><animate attributeName="width" values="0;492" dur="1.6s" begin="1.00s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<rect x="72" y="99" width="492" height="4" rx="2" fill="#6cc26c" opacity=".7"><animate attributeName="width" values="0;492" dur="1.6s" begin="1.00s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="644" y="110" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Automation</text><text x="40" y="150" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Vigor</text>
+<text x="158" y="150" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Linux</text>
+<rect x="40" y="158" width="190" height="4" fill="#1a1e26"/>
+<rect x="40" y="158" width="167" height="4" fill="#c9a84c"><animate attributeName="width" values="0;167" dur="1.4s" begin="1.40s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="240" y="163" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">88<animate attributeName="opacity" values="0;1" dur=".5s" begin="2.40s" fill="freeze"/></text><text x="380" y="150" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Mind</text>
+<text x="498" y="150" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Python</text>
+<rect x="380" y="158" width="190" height="4" fill="#1a1e26"/>
+<rect x="380" y="158" width="171" height="4" fill="#c9a84c"><animate attributeName="width" values="0;171" dur="1.4s" begin="1.55s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="580" y="163" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">90<animate attributeName="opacity" values="0;1" dur=".5s" begin="2.55s" fill="freeze"/></text><text x="40" y="190" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Endurance</text>
+<text x="158" y="190" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Git</text>
+<rect x="40" y="198" width="190" height="4" fill="#1a1e26"/>
+<rect x="40" y="198" width="174" height="4" fill="#c9a84c"><animate attributeName="width" values="0;174" dur="1.4s" begin="1.70s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="240" y="203" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">92<animate attributeName="opacity" values="0;1" dur=".5s" begin="2.70s" fill="freeze"/></text><text x="380" y="190" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Strength</text>
+<text x="498" y="190" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Rust</text>
+<rect x="380" y="198" width="190" height="4" fill="#1a1e26"/>
+<rect x="380" y="198" width="133" height="4" fill="#c9a84c"><animate attributeName="width" values="0;133" dur="1.4s" begin="1.85s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="580" y="203" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">70<animate attributeName="opacity" values="0;1" dur=".5s" begin="2.85s" fill="freeze"/></text><text x="40" y="230" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Dexterity</text>
+<text x="158" y="230" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">TypeScript</text>
+<rect x="40" y="238" width="190" height="4" fill="#1a1e26"/>
+<rect x="40" y="238" width="155" height="4" fill="#c9a84c"><animate attributeName="width" values="0;155" dur="1.4s" begin="2.00s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="240" y="243" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">82<animate attributeName="opacity" values="0;1" dur=".5s" begin="3.00s" fill="freeze"/></text><text x="380" y="230" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Intelligence</text>
+<text x="498" y="230" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Docker</text>
+<rect x="380" y="238" width="190" height="4" fill="#1a1e26"/>
+<rect x="380" y="238" width="161" height="4" fill="#c9a84c"><animate attributeName="width" values="0;161" dur="1.4s" begin="2.15s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="580" y="243" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">85<animate attributeName="opacity" values="0;1" dur=".5s" begin="3.15s" fill="freeze"/></text><text x="40" y="270" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Faith</text>
+<text x="158" y="270" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Clean code</text>
+<rect x="40" y="278" width="190" height="4" fill="#1a1e26"/>
+<rect x="40" y="278" width="180" height="4" fill="#c9a84c"><animate attributeName="width" values="0;180" dur="1.4s" begin="2.30s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="240" y="283" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">95<animate attributeName="opacity" values="0;1" dur=".5s" begin="3.30s" fill="freeze"/></text><text x="380" y="270" font-size="13" fill="#c9a84c" font-family="Cinzel,Georgia,serif" letter-spacing="1">Arcane</text>
+<text x="498" y="270" font-size="12" fill="#a3a4ae" font-family="Georgia,serif">Security</text>
+<rect x="380" y="278" width="190" height="4" fill="#1a1e26"/>
+<rect x="380" y="278" width="140" height="4" fill="#c9a84c"><animate attributeName="width" values="0;140" dur="1.4s" begin="2.45s" fill="freeze" calcMode="spline" keySplines=".2 .8 .2 1"/></rect>
+<text x="580" y="283" font-size="13" fill="#e8d48b" font-family="Cinzel,Georgia,serif" text-anchor="start" opacity="0">74<animate attributeName="opacity" values="0;1" dur=".5s" begin="3.45s" fill="freeze"/></text>
+<text x="720" y="316" font-size="11" fill="#5c5f66" font-family="Georgia,serif" text-anchor="end">Edit assets/hud.svg to change attributes</text>
+</svg>

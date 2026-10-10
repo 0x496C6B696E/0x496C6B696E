@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/github/stars/0x496C6B696E?style=flat-square&amp;color=c9a84c&amp;labelColor=0d1117&amp;label=Embers&amp;affiliations=OWNER" alt="Stars" />
   </p>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,50:c9a84c,100:0d1117&amp;height=2&amp;section=header" width="100%" alt="" />
+  <img src="./assets/bonfire.svg" width="100%" alt="" />
 
   <img src="./assets/about-heading.svg" width="640" alt="About me" />
 
@@ -33,16 +33,31 @@
     </tr>
   </table>
 
-  <img src="./assets/connect-heading.svg" width="640" alt="Connect" />
+  <img src="./assets/hud.svg" width="760" alt="Character sheet: HP backend, FP systems, stamina automation, and attribute bars for Linux, Python, Git, Rust, TypeScript, Docker, clean code, security" />
 
-  <p>
+  <img src="./assets/connect-heading.svg" width="640" alt="Summon signs" />
+
+  <table width="100%">
+    <tr>
+      <td width="45%" align="center" valign="middle">
+        <a href="https://tenor.com/view/lost-grace-bonfire-elden-ring-fantasy-fantasy-game-gif-27178102"><img src="https://media1.tenor.com/m/nVKpPnCCJJ8AAAAC/lost-grace-bonfire.gif" width="340" alt="A site of lost grace" /></a>
+      </td>
+      <td width="55%" align="center" valign="middle">
+        <p><em>Leave a summon sign — I answer most of them.</em></p>
+        <p>
     <a href="https://github.com/0x496C6B696E"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&amp;logo=github&amp;logoColor=c9a84c" alt="GitHub" /></a>
     <a href="mailto:0x496c6b696e@proton.me"><img src="https://img.shields.io/badge/Proton%20Mail-0d1117?style=for-the-badge&amp;logo=protonmail&amp;logoColor=c9a84c" alt="Email" /></a>
     <!-- Add more: LinkedIn, X, website… same badge style, logo names from simpleicons.org -->
-  </p>
+        </p>
+      </td>
+    </tr>
+  </table>
 
-  <img src="./assets/stack-heading.svg" width="640" alt="Tech stack" />
+  <img src="./assets/stack-heading.svg" width="640" alt="Armament" />
 
+  <table width="100%">
+    <tr>
+      <td width="60%" align="center" valign="middle">
   <!-- Edit the icon lists to match your stack: https://skillicons.dev -->
   <p><sub>WEAPONS · LANGUAGES</sub></p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,ts,js,rust,go,c,cpp,bash&amp;theme=dark&amp;perline=8" alt="Languages" /></a>
@@ -50,8 +65,14 @@
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,postgres,redis,sqlite&amp;theme=dark&amp;perline=8" alt="Frameworks and data" /></a>
   <p><sub>ARMOUR · TOOLS &amp; INFRA</sub></p>
   <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=linux,git,github,docker,nginx,vscode,neovim,aws&amp;theme=dark&amp;perline=8" alt="Tools and infrastructure" /></a>
+      </td>
+      <td width="40%" align="center" valign="middle">
+        <a href="https://tenor.com/view/elden-ring-torrent-limgrave-tarnished-fromsoftware-gif-23834407"><img src="https://media1.tenor.com/m/ZazF9isC9nMAAAAC/elden-ring-torrent.gif" width="340" alt="Riding across Limgrave" /></a>
+      </td>
+    </tr>
+  </table>
 
-  <img src="./assets/stats-heading.svg" width="640" alt="GitHub stats" />
+  <img src="./assets/stats-heading.svg" width="640" alt="Soul memory" />
 
   <table width="100%">
     <tr>
@@ -80,7 +101,7 @@
     </tr>
   </table>
 
-  <img src="./assets/activity-heading.svg" width="640" alt="Activity" />
+  <img src="./assets/activity-heading.svg" width="640" alt="Bonfires lit" />
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0x496C6B696E&amp;bg_color=0d1117&amp;color=c9a84c&amp;line=c9a84c&amp;point=e8d48b&amp;area=true&amp;area_color=c9a84c&amp;hide_border=true&amp;custom_title=Embers%20of%20the%20last%2031%20days" width="100%" alt="Contribution activity graph" />
 
@@ -89,7 +110,7 @@
     <img src="https://raw.githubusercontent.com/0x496C6B696E/0x496C6B696E/output/github-snake.svg" width="100%" alt="Contribution snake animation" />
   </picture>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,50:c9a84c,100:0d1117&amp;height=2&amp;section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:0d1117,50:c9a84c,100:0d1117&amp;height=2&amp;section=footer&amp;animation=twinkling" width="100%" alt="" />
 
   <a href="https://tenor.com/view/firelink-shrine-dark-souls-dark-souls-1-hidetaka-miyazaki-gaming-gif-9165653669097953504"><img src="https://media1.tenor.com/m/fzLxc0jW2OAAAAAd/firelink-shrine-dark-souls.gif" width="100%" alt="Quiet ruined landscape" /></a>
 
