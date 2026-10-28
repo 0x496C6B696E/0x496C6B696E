@@ -5,15 +5,6 @@
 **Backend & Systems Engineer · Automation · Infrastructure**<br/>
 **Backend & Sistem Mühendisi · Otomasyon · Altyapı**
 
-I build services that keep running long after the bonfire has gone out: APIs, tooling and automation written to be read, not just run.<br/>
-Ateş söndükten çok sonra da çalışmaya devam eden servisler yazıyorum: okunmak için yazılmış API'ler, araçlar ve otomasyonlar.
-
-[BonfireOS](https://bonfireos.pages.dev) · [Email](mailto:0x496c6b696e@proton.me)
-
-<a href="https://bonfireos.pages.dev"><img src="./assets/camp.jpg" width="100%" alt="BonfireOS: a bonfire in a ruined camp, six standing stones around it, each one a destination of the portfolio" /></a>
-
-<sub>An immersive portfolio world. Rest at the Bonfire. Build. Deploy. Repeat.</sub>
-
 </div>
 
 ---
